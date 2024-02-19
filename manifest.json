@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Browser Warnings",
+  "version": "1.0",
+  "description": "Display custom warnings on specified websites.",
+  "permissions": ["storage", "activeTab", "tabs"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

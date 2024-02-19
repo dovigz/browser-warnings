@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Browser Warnings</title>
+    <style>
+      body {
+        width: 300px;
+      }
+      #warning {
+        color: red;
+        margin-top: 5px;
+      }
+      .site-list {
+        margin-top: 10px;
+      }
+      .site-item {
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <input type="text" id="website" placeholder="Enter website URL" />
+      <input type="text" id="message" placeholder="Enter custom message" />
+      <button id="save">Save</button>
+      <div id="warning"></div>
+    </div>
+    <div id="siteList" class="site-list"></div>
+    <script src="popup.js"></script>
+  </body>
+</html>
