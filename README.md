@@ -6,3 +6,6 @@ Don't mess up like i did make sure to tag your live site with a warning banner. 
 
 Extension can be found [here](https://chromewebstore.google.com/detail/browser-warnings/fpgaffgkoefmoopmjdkiljpfeacklkpm)
 https://chromewebstore.google.com/detail/browser-warnings/fpgaffgkoefmoopmjdkiljpfeacklkpm.
+
+![Optional alt text for image](https://lh3.googleusercontent.com/dgvL52ZwAadG1OSNnwShzDUcoUfZz9zYCOf3JbC49GbeFF419LjesZiFEq4aptu5I5Jzer-ifVenyLDhel-Lity-oA=s1280-w1280-h800)
+
